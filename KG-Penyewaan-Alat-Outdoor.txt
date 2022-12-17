@@ -4,3 +4,4 @@ Data Penyewaan Alat Outdoor
 - Alamat penyewa
 - Ktp
 - Alat yang disewa
+- Jumlah alat yang disewa
